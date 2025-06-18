@@ -2,6 +2,5 @@ numpy
 pandas
 matplotlib
 streamlit
-pickle
-string
 nltk
+scikit-learn
